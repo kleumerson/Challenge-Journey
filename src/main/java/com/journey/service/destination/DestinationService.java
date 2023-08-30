@@ -19,7 +19,7 @@ import java.util.stream.Collectors;
 @Service
 @RequiredArgsConstructor
 public class DestinationService {
-    private final static String OPENAI_TOKEN = "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";
+    private final static String OPENAI_TOKEN = "please, inform your token";
     @Autowired
     DestinationRepository destinationRepository;
 
